@@ -36,6 +36,9 @@ To set up the environment, run:
 ```bash
 conda env create -f environment.yml
 conda activate CMC_Prediction
+```
+
+---
 
 ## 📁 Repository Structure
 
