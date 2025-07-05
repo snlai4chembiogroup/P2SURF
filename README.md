@@ -41,7 +41,7 @@ conda activate CMC_Prediction
 ---
 
 ## 📁 Repository Structure
-
+```
 P2SURF/
 ├── Single_Surfactant_CMC/
 │
@@ -52,7 +52,7 @@ P2SURF/
 │
 ├── environment.yml
 └── README.md
-
+```
 
 ---
 
