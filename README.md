@@ -1,4 +1,4 @@
-# 🧪 P2SURF: Machine Learning Framework for Predicting Critical Micelle Concentration (CMC)
+# 🧪 P2SURF: Machine Learning Framework Predicting Critical Micelle Concentration (CMC)
 
 **P2SURF** is a machine learning-based framework for predicting the **critical micelle concentration (CMC)** of both single and binary surfactant systems. It leverages **cheminformatics descriptors** and **artificial neural networks (ANNs)** to deliver robust prediction capabilities—including both **interpolation** across known compositions and **extrapolation** to novel mixtures.
 
@@ -61,6 +61,7 @@ P2SURF/
 All datasets used in this project are included in the `dataset` folders within each case directory. These datasets contain:
 
 - SMILES strings
+- Mole fraction (for mixtures)
 - Experimental CMC values
 
 ---
