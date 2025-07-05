@@ -11,17 +11,21 @@ Binary surfactant mixtures, including:
 This machine learning framework uses descriptor generation (RDKit, Mordred, PaDEL), feature selection (BorutaPy), and model training/evaluation steps.
 
 📦 Requirements
+
 Install the dependencies using:
 
-  conda env create -f environment.yml
-  conda activate cmc-prediction
+> conda env create -f environment.yml
+> conda activate cmc-prediction
+
 
 📁 Datasets
+
 All datasets used in this project are included in the dataset folders of each case. These datasets contain:
 > SMILES strings
 > Experimental CMC values
 
 🚀 How to Run
+
 You can open and run each notebook step-by-step inside any of the following folders:
 > Single_Surfactant_CMC
 > Mixture_surfactants_CMC/Case-1_Interpolating CMC at intermediate mole fraction
