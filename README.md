@@ -36,3 +36,26 @@ To set up the environment, run:
 ```bash
 conda env create -f environment.yml
 conda activate CMC_Prediction
+
+---
+
+##📁 Repository Structure
+
+```plaintext
+├── Single_Surfactant_CMC/
+│
+├── Mixture_surfactants/
+│   ├── Case-1_Interpolating CMC at intermediate mole fraction/
+│   │   
+│   └── Case-2_Predicting CMC for unseen surfactant mixtures/
+│     
+│
+├── environment.yml
+└── README.md
+
+##📁 Datasets
+All datasets used in this project are included in the dataset folders of each case. These datasets contain:
+
+SMILES strings
+
+Experimental CMC values
