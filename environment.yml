@@ -1,0 +1,23 @@
+name: CMC_Prediction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - rdkit=2023.09.4
+  - notebook
+  - pandas=2.1
+  - mordred
+  - pytorch==2.1.2
+  - pyg
+  - cpuonly
+  - torchaudio==2.1.2
+  - torchvision==0.16.2
+  - py-xgboost
+  - openjdk
+  - umap-learn
+  - seaborn
+  - salib
+  - boruta_py
+  - dask
+  - shap
