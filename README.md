@@ -37,9 +37,8 @@ To set up the environment, run:
 conda env create -f environment.yml
 conda activate CMC_Prediction
 
----
 
-##📁 Repository Structure
+## 📁 Repository Structure
 
 ```plaintext
 ├── Single_Surfactant_CMC/
